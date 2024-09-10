@@ -26,7 +26,9 @@ TP4056 - Pico/1N5817
 
 *1N5817_1/1N5817_2* to *37 (3V3_EN)
 
+*-Out* to  *Switch pin (left)*
 
+*Switch pin (right)* to *GND (13)*
 
 
 
