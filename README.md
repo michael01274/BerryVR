@@ -11,6 +11,5 @@ BerryVR is an innovative virtual reality full body tracking (FBT) system that ha
   What IMUs/Sensors are used?
     As of now, the BMI160 is the main IMU that will be used. I'm still working on making compatable with other IMUs, but we all need to start somewhere. 
 
-  
-
+  ![alt text](https://github.com/michael01274/BerryVR/blob/main/BerryVR.png?raw=true) 
 
