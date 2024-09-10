@@ -1,6 +1,6 @@
 //before we do anything we need to solder/connect our components to the RPi Pico. first we will start with the BMI160
 
-BMI160 - Pico
+BMI160_1 - Pico
 
 *3V3* to *3V3 (out)*
 
@@ -12,6 +12,17 @@ BMI160 - Pico
 
 *SA0* to *(GND)*
 
+BMI160_2 - Pico
+
+*3V3* to *3V3 (out)*
+
+*GND* to *38 (GND)*
+
+*SDA* to *16 (GP12)*
+
+*SCL* to *17 (GP13)*
+
+ (Leave SA0 alone) 
 
 
 TP4056 - Pico/1N5817
