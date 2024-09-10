@@ -1,4 +1,6 @@
-//before we do anything we need to solder/connect our components to the RPi Pico. first we will start with the BMI160
+//before we do anything we need to solder/connect our components to the RPi Pico. first, we will start with the BMI160//
+
+-------------------------------------------------
 
 BMI160_1 - Pico
 
@@ -12,6 +14,8 @@ BMI160_1 - Pico
 
 *SA0* to *(GND)*
 
+-------------------------------------------------
+
 BMI160_2 - Pico
 
 *3V3* to *3V3 (out)*
@@ -24,6 +28,11 @@ BMI160_2 - Pico
 
  (Leave SA0 alone) 
 
+-------------------------------------------------
+
+//Now we need to connect the charging board to the Pico//
+
+-------------------------------------------------
 
 TP4056 - Pico/1N5817
 
@@ -40,6 +49,8 @@ TP4056 - Pico/1N5817
 *-Out* to  *Switch pin (left)*
 
 *Switch pin (right)* to *GND (13)*
+
+-------------------------------------------------
 
 
 
